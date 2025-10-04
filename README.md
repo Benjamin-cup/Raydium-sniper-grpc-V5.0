@@ -22,11 +22,12 @@ Welcome to the Raydium Sniper Bot v5.0! This bot watches for new Raydium Pool Cr
 
 ## 📞 **Stay Connected**
 
-Gmail: tom.kinddev@gmail.com
 
-Telegram: [@erikerik116](https://t.me/erikerik116)
+Gmail: benjamin.bigdev@gmail.com
 
-Discord: @erikerik116
+Telegram: [@SOLBenjaminCup](https://t.me/SOLBenjaminCup)
+
+Discord: [@.benjamincup](https://discord.com/channels/@me/1305610537790476382)
 
 ## 🧑‍💻 **Transactions and Dexscreenshot**
 Result:
@@ -76,7 +77,7 @@ Follow these steps to get your **Raydium Sniper Bot v5.0** up and running!
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/eriksol116/Raydium-sniper-grpc-V5.0.git
+    git clone https://github.com/Benjamin-cup/Raydium-sniper-grpc-V5.0
     ```
 
 2. **Install Dependencies**:
